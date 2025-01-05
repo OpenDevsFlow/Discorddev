@@ -10,6 +10,6 @@ Discord.dev
 
 ## 💻 About:
 
-Discord.dev is a fork of discord.js library. Everything is like Discord.js
+Discord.dev is a fork of discord.js library. Everything is like Discord.js but with better updates, fast and secure
 
 [![ODF Banner](https://api.weblutions.com/discord/invite/a2c3QTWkuk)](https://discord.gg/a2c3QTWkuk)
