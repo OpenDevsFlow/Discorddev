@@ -1,11 +1,11 @@
-# Discord.dev
+# Discord.odf
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/discord.dev">
-    <img src="https://img.shields.io/npm/v/discord.dev.svg" alt="NPM Version">
+  <a href="https://www.npmjs.com/package/discord.odf">
+    <img src="https://img.shields.io/npm/v/discord.odf.svg" alt="NPM Version">
   </a>
-  <a href="https://www.npmjs.com/package/discord.dev">
-    <img src="https://img.shields.io/npm/dm/discord.dev.svg" alt="NPM Downloads">
+  <a href="https://www.npmjs.com/package/discord.odf">
+    <img src="https://img.shields.io/npm/dm/discord.odf.svg" alt="NPM Downloads">
   </a>
   <a href="https://discord.gg/a2c3QTWkuk">
     <img src="https://img.shields.io/discord/123456789012345678.svg" alt="Discord">
@@ -14,7 +14,7 @@
 
 ## 💻 About
 
-Discord.dev is a modern, fast, and secure fork of the [discord.js](https://discord.js.org/) library. It retains the core functionality of discord.js while introducing faster updates, improved security, and additional enhancements to help developers build better Discord bots.
+Discord.odf is a modern, fast, and secure fork of the [discord.js](https://discord.js.org/) library. It retains the core functionality of discord.js while introducing faster updates, improved security, and additional enhancements to help developers build better Discord bots.
 
 ## 🚀 Features
 
@@ -25,22 +25,22 @@ Discord.dev is a modern, fast, and secure fork of the [discord.js](https://disco
 
 ## 📦 Installation
 
-Install Discord.dev using npm:
+Install Discord.odf using npm:
 
 ```bash
-npm install discord.dev
+npm install discord.odf
 ```
 
 ## 📚 Documentation
 
-Comprehensive documentation is available to guide you through every feature. Check it out [here](https://discord.dev/docs).
+Comprehensive documentation is available to guide you through every feature. Check it out [here](https://discord.odf/docs).
 
 ## 🛠️ Usage
 
 Here's a quick example to get started:
 
 ```javascript
-const { Client, GatewayIntentBits } = require('discord.dev');
+const { Client, GatewayIntentBits } = require('discord.odf');
 
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
@@ -61,7 +61,7 @@ client.login('your-bot-token');
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests on the [GitHub repository](https://github.com/your-repo/discord.dev).
+Contributions are welcome! Feel free to submit issues or pull requests on the [GitHub repository](https://github.com/your-repo/discord.odf).
 
 ## 📝 License
 
