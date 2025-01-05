@@ -1,0 +1,21 @@
+{
+  "name": "discord.dev",
+  "version": "1.0.0",
+  "main": "lib/cjs/discord.dev.js",
+  "keywords": ["discord.js", "discord", "discord-api"],
+  "exports": {
+    ".": {
+      "require": "./lib/cjs/discord.dev.js",
+      "import": "./lib/esm/discord.dev.mjs"
+    }
+  },
+  "author": "OpenDevsFlow",
+  "license": "MIT",
+  "description": "An cool discord api wapper.",
+  "dependencies": {
+    "discord.js": "^x.x.x"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5"
+  }
+}
