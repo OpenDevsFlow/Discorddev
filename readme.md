@@ -33,7 +33,7 @@ npm install discord.odf
 
 ## 📚 Documentation
 
-Comprehensive documentation is available to guide you through every feature. Check it out [here](https://discord.odf/docs).
+Comprehensive documentation is available to guide you through every feature. Check it out [here](https://discord.js.org/docs).
 
 ## 🛠️ Usage
 
@@ -61,7 +61,7 @@ client.login('your-bot-token');
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests on the [GitHub repository](https://github.com/your-repo/discord.odf).
+Contributions are welcome! Feel free to submit issues or pull requests on the [GitHub repository](https://github.com/OpenDevsFlow/discord.odf).
 
 ## 📝 License
 
