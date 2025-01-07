@@ -1,12 +1,16 @@
 {
-  "name": "discord.dev",
-  "version": "1.0.0",
-  "main": "lib/cjs/discord.dev.js",
+  "name": "discord.odf",
+  "version": "1.0.2",
+  "main": "lib/cjs/discord.odf.js",
   "keywords": ["discord.js", "discord", "discord-api"],
   "exports": {
     ".": {
-      "require": "./lib/cjs/discord.dev.js",
-      "import": "./lib/esm/discord.dev.mjs"
+      "require": "./lib/cjs/discord.odf.js",
+      "import": "./lib/esm/discord.odf.mjs"
+    },
+    "./utils": {
+      "require": "./lib/cjs/utils.js",
+      "import": "./lib/esm/utils.mjs"
     }
   },
   "author": "OpenDevsFlow",
